@@ -1,0 +1,7 @@
+com\example\hotels_service\model\Hotel.class
+com\example\hotels_service\repository\HotelRepository.class
+com\example\hotels_service\service\HotelService.class
+com\example\hotels_service\service\IHotelService.class
+com\example\hotels_service\HotelsServiceApplication.class
+com\example\hotels_service\controller\HotelController.class
+com\example\hotels_service\repository\IHotelRepository.class
